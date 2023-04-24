@@ -1,2 +1,2 @@
 # Queue-implementation-in-C-
-Implementing queues in Ce++
+Implementing queues in C++
